@@ -1,4 +1,4 @@
-package com.example.accechartpratice;
+package com.example.accechartpractice;
 
 import org.junit.Test;
 
